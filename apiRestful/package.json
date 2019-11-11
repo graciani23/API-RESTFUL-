@@ -1,0 +1,19 @@
+{
+  "name": "apiRestful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "mime-db": "^1.42.0",
+    "mongoose": "^5.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index"
+  },
+  "keywords": [],
+  "author": "Graciani Sousa",
+  "license": "ISC"
+}
